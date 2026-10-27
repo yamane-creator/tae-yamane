@@ -1,0 +1,67 @@
+[
+  {
+    "path": "previews/概要.png",
+    "bytes": 116434,
+    "sha256": "4a7c7b1b5c098299b5f0b04e7981f21810d77d2d0bcbe0dc777e4b3bc1d54d3e"
+  },
+  {
+    "path": "previews/販売店登録.png",
+    "bytes": 147998,
+    "sha256": "dd7025368096cfef6a93a6bffcace0c40bc78dbaad88fe541b1fe7512a7b981e"
+  },
+  {
+    "path": "sources/新規録音.m4a",
+    "bytes": 33104821,
+    "sha256": "8a9b2578ce07b3d085bb2e4fc43d39679f350d5326b88735fb9447377b0c3067"
+  },
+  {
+    "path": "sources/資料抜粋/S__112156676_0.jpg",
+    "bytes": 541758,
+    "sha256": "f74cf29faa5a5c50f20065577b0a898bbf547d2566b41c8d0cb9d7ef92a8c34a"
+  },
+  {
+    "path": "sources/資料抜粋/S__112156677_0.jpg",
+    "bytes": 438003,
+    "sha256": "1fe4c7605193e53eac4062dcba92b49314e908120b748eb3c94dcc3adcfcac8e"
+  },
+  {
+    "path": "sources/資料抜粋/S__112156678_0.jpg",
+    "bytes": 434677,
+    "sha256": "b10f196ada631c0e056088ee5db5ee3db812e4675ea8a8779e10c5b1937cff14"
+  },
+  {
+    "path": "sources/資料抜粋/S__112156679_0.jpg",
+    "bytes": 484848,
+    "sha256": "676e07297e8ada3f0f301e60009f79a8d2d546da0a62ef4429de671dbcf19603"
+  },
+  {
+    "path": "sources/資料抜粋/S__112156680_0.jpg",
+    "bytes": 455437,
+    "sha256": "a365b390498ccb01ad09ffd951744c6889be227a577f66bfd84361ebabcbe684"
+  },
+  {
+    "path": "sources/資料抜粋/S__112156681_0.jpg",
+    "bytes": 454465,
+    "sha256": "a237dcd1dd6083bc49814d659146a0b2c432ab585d97d4a707bfd04399e3e49c"
+  },
+  {
+    "path": "sources/資料抜粋.zip",
+    "bytes": 2806989,
+    "sha256": "82ab7a629da825a6401dcf36e489149f28e806bb30f11d4c09ae4d17159396fd"
+  },
+  {
+    "path": "鳥取県省エネ家電_概要_A4一枚.pdf",
+    "bytes": 5855,
+    "sha256": "eef7c94f51c1ac2713300f83656db4d626af3dcabf8650ebc67aeb9b6eff1753"
+  },
+  {
+    "path": "鳥取県省エネ家電_概要と販売店登録_全2ページ.pdf",
+    "bytes": 10593,
+    "sha256": "c9b1053cdc868aa4c043a1b524b78efd793dd9a0f8f6361be26e8c108fe15fae"
+  },
+  {
+    "path": "鳥取県省エネ家電_販売店登録_A4一枚.pdf",
+    "bytes": 6182,
+    "sha256": "47e61f8a300860767165c5a72e5c97905c56db82911216801f8b7a9174fbd4c5"
+  }
+]
