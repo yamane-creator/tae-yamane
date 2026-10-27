@@ -1,5 +1,10 @@
 [
   {
+    "path": "previews/手書きメモ整理.png",
+    "bytes": 168063,
+    "sha256": "d30df4a1d0ae711dd64a4b55a9d5d2ce8689dc0d7a508b6691d077410ddc6d6c"
+  },
+  {
     "path": "previews/概要.png",
     "bytes": 116434,
     "sha256": "4a7c7b1b5c098299b5f0b04e7981f21810d77d2d0bcbe0dc777e4b3bc1d54d3e"
@@ -48,6 +53,11 @@
     "path": "sources/資料抜粋.zip",
     "bytes": 2806989,
     "sha256": "82ab7a629da825a6401dcf36e489149f28e806bb30f11d4c09ae4d17159396fd"
+  },
+  {
+    "path": "鳥取県省エネ家電_手書きメモ整理_A4一枚.pdf",
+    "bytes": 6050,
+    "sha256": "e54393e428d1e83235333e8dc93aa4c5872147f4ea1944508425ff56adf490b6"
   },
   {
     "path": "鳥取県省エネ家電_概要_A4一枚.pdf",
